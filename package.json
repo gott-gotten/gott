@@ -1,9 +1,11 @@
 {
   "name": "gott",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "discription": "utils",
-  "keywords": ["utils"],
+  "keywords": [
+    "utils"
+  ],
   "type": "module",
   "main": "dist/gott.cjs",
   "module": "dist/gott.js",
